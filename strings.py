@@ -104,3 +104,6 @@ max_score = 26
 print(f"You scored {score/max_score}") # 0.6153846153846154
 print(f"You scored {score/max_score:%}")  #61.538462%
 print(f"You scored {score/max_score:.0%}") #62%
+
+# User details
+
