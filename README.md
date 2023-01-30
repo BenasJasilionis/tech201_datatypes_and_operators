@@ -41,13 +41,12 @@ tech201_datatypes_and_operators
 * The backwards slash `\` symbol is an escape character which allows the same quote types to be used
 
 ### String slicing
-Every data set in coding start at index 0, which is important to know when slicing as strings can be sliced by specifying indexes
-*This can be visualised below:
+Every data set in coding start at index 0, which is important to know when slicing as strings can be sliced by specifying indexes. This can be visualised below:
 * H = 0 = -12
 * e = 1 = -11
 * l = 2 = -10
 * l = 3 = -9
-* 0 = 4 = -8
+* o = 4 = -8
 *   = 5 = -7
 * w = 6 = -6
 * o = 7 = -5
