@@ -3,7 +3,7 @@
 print("Hi, what is your name and age?")
 name = input()
 age = int(input())
-print(f"Hi {name} , I am a bit older, I am {age * 2} years old.")
+print(f"Hi {name.capitalize()} , I am a bit older, I am {age * 2} years old.")
 print (" What is your address?")
 street = input()
 house_number = input()
